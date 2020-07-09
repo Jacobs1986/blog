@@ -14,7 +14,10 @@ function App() {
             </Row>
             <Row>
                 <Col md={2}>
-                    Links to past posts go here.
+                    <h5>July</h5>
+                    <ul>
+                        <li>07/02/2020</li>
+                    </ul>
                 </Col>
                 <Col md={7}>
                     Posts go here.
